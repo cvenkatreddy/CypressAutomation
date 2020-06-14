@@ -1,0 +1,11 @@
+{
+  "env": {
+    "url": "https://evernote.com/"
+  },
+  "baseURL": "https://reqres.in/api",
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout": 10000,
+  "pageLoadTimeout": 60000,
+  "reporter": "mochawesome",
+  "projectId": "wn4tha"
+}

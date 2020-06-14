@@ -1,0 +1,12 @@
+{
+    "invalidEmail": "fake@email.com",
+    "invalidPassword": "fakePassword",
+    "errorMessage": "Incorrect password.",
+    "validEmail": "qaauto.venkatreddyc@gmail.com",
+    "validPassword": "Deveshi#7",
+    "loginUrl": "/Login.action",
+    "logOutUrl": "/logged-out",
+    "logOutMessage": "You have logged out of Evernote.",
+    "noteTitle": "This is a note title",
+    "noteTimeStamp": "a few seconds ago"
+  }
